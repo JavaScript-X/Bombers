@@ -90,6 +90,7 @@
 
 To keep this collection up-to-date need contributors who can add more mobile/email/whatsapp/twitter scripts and github repo here at one place.
 
+:octocat: [JavaScript](https://github.com/JavaScript-X)</br> 
 :octocat: [iMro0t](https://github.com/iMro0t)</br> 
 :octocat: [rizwansoaib](https://github.com/rizwansoaib)</br> 
 :octocat: [scienceLabwork](https://github.com/scienceLabwork)</br> 
